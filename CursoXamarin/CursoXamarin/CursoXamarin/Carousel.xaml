@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<CarouselPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="CursoXamarin.Carousel">
+
+    <ContentPage Title="Tab0" BackgroundColor="Beige"/>
+    <ContentPage Title="Tab 1" BackgroundColor="Coral"/>
+    <ContentPage Title="Tab 2" BackgroundColor="Blue"/>
+    <ContentPage Title="Tab 3" />
+
+</CarouselPage>
